@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "Coffin bot",
   "main": "BOT2.0.js",
+  "scripts": {
+    "start": "nodemon BOT2.0.js"
+  },
   "author": "NxPoet",
   "license": "ISC",
   "dependencies": {
