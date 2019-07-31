@@ -9,7 +9,7 @@ let msgg = require("./messages.json")
 let fbstats = require("./fbstats.json")
 const moment = require('moment')
 const gb = require("./guildBudget.json")
-let set = new Set()
+let cooldown = new Set()
 
 const bot = new Discord.Client({disableEveryone: true})
 
