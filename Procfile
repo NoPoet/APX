@@ -1,1 +1,1 @@
-worker: nodemon BOT2.0.js
+worker: node BOT2.0.js
