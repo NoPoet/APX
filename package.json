@@ -1,0 +1,12 @@
+{
+  "name": "coff1n",
+  "version": "0.0.1",
+  "description": "Coffin bot",
+  "main": "BOT2.0.js",
+  "author": "NxPoet",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "moment": "^2.24.0"
+  }
+}
